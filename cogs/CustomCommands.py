@@ -18,7 +18,6 @@ def keep_alive():
 
 keep_alive()
 print("Server Running Because of Axo")
-
 import discord
 from discord.ext import commands
 
